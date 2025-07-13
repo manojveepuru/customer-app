@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John",
+      "phone": "123456789",
+      "plan": "Gold"
+    },
+    {
+      "id": "2",
+      "name": "George",
+      "phone": "124567991",
+      "plan": "Premium"
+    },
+    {
+      "id": "2460",
+      "name": "Alice",
+      "phone": "123456789",
+      "plan": "Basic"
+    }
+  ]
+}
